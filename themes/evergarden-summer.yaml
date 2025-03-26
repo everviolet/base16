@@ -1,0 +1,24 @@
+## name: evergarden summer
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+scheme: "evergarden-summer"
+author: "https://github.com/comfysage"
+
+base00: "e9ebf0"
+base01: "c0696b"
+base02: "a9be88"
+base03: "cbae75"
+base04: "8ca4bb"
+base05: "d0a3c3"
+base06: "91bb9c"
+base07: "171c1f"
+base08: "ced9e0"
+base09: "c0696b"
+base0A: "a9be88"
+base0B: "cbae75"
+base0C: "8ca4bb"
+base0D: "d0a3c3"
+base0E: "91bb9c"
+base0F: "526469"
